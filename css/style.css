@@ -83,7 +83,8 @@
 
  .section-image {
 <<<<<<< HEAD
- 	background: #151515 url('images/stars.jpg') no-repeat center center;
+ 	background-image: url('images/stars.jpg') no-repeat center center;
+    background-color: #DCC6E0
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
