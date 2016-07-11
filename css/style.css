@@ -44,29 +44,29 @@
 
  a {
     cursor: pointer;
-    color: #f39c12;
+    color: #1abc9c;
     text-decoration: none;
  }
 
  a:hover {
     text-decoration:none;
-    color: #f39c12;
+    color: #1abc9c;
     opacity: 0.9;
  }
 
  hr {
-    border-top: 5px solid #f39c12;
+    border-top: 5px solid #1abc9c;
     width: 80px;
     padding-bottom: 20px;
  }
 
 
  .colour-splash {
-    color: #f39c12;
+    color: #1abc9c;
  }
 
  .section-primary span {
-    color: #f39c12;
+    color: #1abc9c;
     font-weight: bolder;
     opacity: 1;
  }
@@ -123,7 +123,7 @@
 }
 
 .intro h5 {
-    color: #f39c12;
+    color: #1abc9c;
     font-size: 2.3rem;
     margin-bottom: 0;
     text-transform: uppercase;
@@ -210,11 +210,11 @@ section {
 }
 
 .section-primary {
-    border: #f39c12;
+    border: #1abc9c;
 }
 
 .section-colour {
-    background-color: #f39c12;
+    background-color: #1abc9c;
     color: #fff;
 }
 
@@ -388,11 +388,6 @@ footer p {
         background-position: top center;
 
     }
-}
-
-
-.alt-color {
-    background: blue;
 }
 
 
