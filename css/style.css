@@ -83,10 +83,14 @@
 
  .section-image {
 <<<<<<< HEAD
+<<<<<<< HEAD
  	background: #151515 url("https://pixabay.com/static/uploads/photo/2015/11/07/11/25/stars-1031123_960_720.jpg") no-repeat center center;
 =======
  	background: #151515 url(https://pixabay.com/static/uploads/photo/2016/01/01/20/02/taiwan-1117008_960_720.jpg) no-repeat center center;
 >>>>>>> parent of 6d1e72e... New background image
+=======
+ 	background: #151515 url(https://pixabay.com/static/uploads/photo/2015/11/07/11/25/stars-1031123_960_720.jpg) no-repeat center center;
+>>>>>>> parent of eec2858... Tried to replace section image
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -250,7 +254,7 @@ section {
 }
 
 #skills {
-    background: #151515 url(https://pixabay.com/static/uploads/photo/2015/11/07/11/25/stars-1031123_960_720.jpg) no-repeat center center;
+    background: #151515 url(https://pixabay.com/static/uploads/photo/2015/07/10/17/24/night-839807_960_720.jpg) no-repeat center center;
     height: auto;
 }
 
@@ -388,7 +392,7 @@ footer p {
     }
 
     #skills {
-        background: #151515 url(https://pixabay.com/static/uploads/photo/2016/01/01/20/02/taiwan-1117008_960_720.jpgh=720&q=80) no-repeat center center;
+        background: #151515 url(https://pixabay.com/static/uploads/photo/2016/01/01/20/02/taiwan-1117008_960_720.jpg) no-repeat center center;
         background-position: top center;
 
     }
