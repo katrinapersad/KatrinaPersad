@@ -33,6 +33,7 @@
 
  h1 {
     font-weight: bold;
+    font-family: 'Playfair Display', serif;
  }
 
  h2 {
@@ -125,7 +126,7 @@
 }
 
 .intro h1 {
-    font-size: 84px;
+    font-size: 65px;
 }
 
 .intro h5 {
